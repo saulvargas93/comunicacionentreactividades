@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">comunicacionentreactividades</string>
+    <string name="lpprincipal">MENU PRINCIPAL</string>
+    <string name="frmuno">invoca actividad</string>
+    <string name="qfrmparametro">pasa parametro</string>
+    <string name="tnombre">escribe tu nombre</string>
+    <string name="cfruno">Estamos En La Actividad 1 n.n</string>
+    <string name="pdosletrero">pantalla dos parametro</string>
+</resources>
